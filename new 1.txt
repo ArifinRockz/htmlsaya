@@ -1,0 +1,1 @@
+function downloadJSAtOnload2(){var d=document.createElement("script");d.src="https://cdn.rawgit.com/KompiAjaib/js/master/comment-hack.js",document.body.appendChild(d)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload2,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload2):window.onload=downloadJSAtOnload2; 
